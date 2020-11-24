@@ -2,6 +2,9 @@ html{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+body{
+  background-color:#fff;
+
 .hide-box{
     margin:0 auto;
     text-align: center;
