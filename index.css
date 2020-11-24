@@ -1,4 +1,6 @@
-
+html{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 .hide-box{
     margin:0 auto;
